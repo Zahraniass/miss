@@ -1,0 +1,9 @@
+<a href="/" class="brand">Saraya</a>
+	<ul>
+		<li> <a href="#">Home</a></li>
+		<li><a href="/bag.do">Bags</a></li>
+		<li><a href="https://www.sarayatechsolutions.com">SarayaTech</li>
+	</ul>
+	<ul>
+			<li><a href="/logout.do">Logout</a></li>
+	</ul>
